@@ -1,0 +1,19 @@
+{
+  "name": "yubi-tube",
+  "version": "1.0.0",
+  "description": "Yubi Tube is a full-stack MERN application built to strengthen backend development fundamentals.",
+  "keywords": [
+    "Yubi",
+    "Tube",
+    "MERN",
+    "Full-Stack",
+    "Backend"
+  ],
+  "license": "ISC",
+  "author": "Sanju Dhritlahre",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
